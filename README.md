@@ -2,7 +2,7 @@
 
 <h3>Instalacion:</h3>
 
-<h3>Sobre el juego:</h3>
+<h3>Objetivo el juego:</h3>
 
 <h3>Reglas del juego:</h3>
 
